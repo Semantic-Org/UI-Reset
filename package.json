@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-reset",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> ee7446eb2996abc8bbe2de2ef74e3a1f9e53d145
   "title": "Semantic UI - Reset",
   "description": "Single component release of reset",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> ee7446eb2996abc8bbe2de2ef74e3a1f9e53d145
   "devDependencies": {}
 }
