@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-reset",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> dad00a377a2c0f4be705be36c45c42285d6d973d
   "title": "Semantic UI - Reset",
   "description": "Single component release of reset",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Reset.git"
+    "url": "https://github.com/Semantic-Org/UI-Reset.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
