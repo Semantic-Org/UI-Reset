@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-reset',
   summary : 'Semantic UI - Reset (official): Single component release of reset',
-  version : '1.9.0',
+  version : '1.9.9',
   git     : 'git://github.com/Semantic-Org/UI-Reset.git',
 });
 
