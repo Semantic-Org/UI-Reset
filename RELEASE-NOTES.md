@@ -1,3 +1,7 @@
+#### Bugs
+
+- **Input** - Input now will reset `font-weight` and `font-style` if set on parent;
+
 ### Version 2.0.3 - July 8, 2015
 
 - **Modal** - Modal that is larger than page height will now correctly reset body height on remove [#2576](https://github.com/Semantic-Org/Semantic-UI/issues/2576)
