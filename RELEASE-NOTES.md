@@ -1,3 +1,7 @@
+### Version 2.1.5 - Nov 1, 2015
+
+- **Progress* - Calling `reset` will now reset `value` to 0, so increment starts again at 0
+
 #### Bugs
 
 - **Input** - Input now will reset `font-weight` and `font-style` if set on parent;
