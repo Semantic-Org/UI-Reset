@@ -1,3 +1,8 @@
+### Version 2.2.11 - July 11, 2017
+
+- **Reset** - Upgrades to [normalize.css 7.0](https://necolas.github.io/normalize.css/) **Thanks @ivantcholakov** [#4647](https://github.com/Semantic-Org/Semantic-UI/issues/4647)
+- **Dropdown** - Fixed issue where `search selection dropdown` would reset list to top after selection when re-opening dropdown [#4506](https://github.com/Semantic-Org/Semantic-UI/issues/4506)
+
 ### Version 2.1.5 - Nov 1, 2015
 
 - **Progress* - Calling `reset` will now reset `value` to 0, so increment starts again at 0
